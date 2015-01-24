@@ -55,6 +55,8 @@ With all the parameters, you have to change them accordingly. Here are the descr
 - **"right"** : the right position of the visualization component.
 - **"left"** : the left position of the visualization component.
 - **"bottom"** : the bottom position of the visualization component.
+
+
 Additionally, by "click" on each arc, the particular object gets zoomed and the corresponding hierarchy is displayed.
 
 ## Contributing
