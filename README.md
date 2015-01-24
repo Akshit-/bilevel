@@ -49,13 +49,13 @@ var opts =  {
 };
 ```
 
-- With all the parameters, you have to change them accordingly. Here are the descriptions:
-**"json"** : the .json file that you would like to visulaize.
-**"top"** : the top position of the visualization component.
-**"right"** : the right position of the visualization component.
-**"left"** : the left position of the visualization component.
-**"bottom"** : the bottom position of the visualization component.
-- Additionally, by "click" on each arc, the particular object gets zoomed and the corresponding hierarchy is displayed.
+With all the parameters, you have to change them accordingly. Here are the descriptions:
+- **"json"** : the .json file that you would like to visulaize.
+- **"top"** : the top position of the visualization component.
+- **"right"** : the right position of the visualization component.
+- **"left"** : the left position of the visualization component.
+- **"bottom"** : the bottom position of the visualization component.
+Additionally, by "click" on each arc, the particular object gets zoomed and the corresponding hierarchy is displayed.
 
 ## Contributing
 
