@@ -5,13 +5,17 @@
 
 > 
 
-## Documentation
 
 ## Description
 A bilevel partition uses a radial layout for depicting hierarchies. The root node of the tree is at the center, with leaves on the circumference. The area (or angle, depending on implementation) of each arc corresponds to its value. 
 
 ## Getting Started
 Install the module with: `npm install bilevel`
+```javascript
+var bilevel = require('treemap');
+bilevel.hello("biojs"); // "hello biojs"
+```
+## Documentation
 
 #### How to have a new Bilevel with different .json file?
 - In the simple.js replace the flare.json with a new one.
