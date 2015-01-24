@@ -12,7 +12,7 @@ A bilevel partition uses a radial layout for depicting hierarchies. The root nod
 ## Getting Started
 Install the module with: `npm install bilevel`
 ```javascript
-var bilevel = require('treemap');
+var bilevel = require('bilevel');
 bilevel.hello("biojs"); // "hello biojs"
 ```
 ## Documentation
