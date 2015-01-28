@@ -1,7 +1,7 @@
 {
   "name": "bilevel",
   "description": "Bilevel partition",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "homepage": "https://github.com/Akshit-/bilevel",
   "contributors": [
     {
@@ -16,22 +16,23 @@
 
     },
     {
-      "name": "Tatyana Goldberg"
-    },
-    {
-      "name": "Juan Miguel Cejuela"
-    },
-    {
-      "name": "Sebastian Wilzbach"
-    },
-    {
-      "name": "David Dao"
-    },
-    {
-      "name": "Manuel Corpas"
-    },
-    {
-      "name": "Prof. Burkhard Rost"
+      "name": "Tatyana Goldberg",
+      "url": "https://rostlab.org/~goldberg/"
+    }, {
+      "name": "Juan Miguel Cejuela",
+      "url": "https://www.tagtog.net/"
+    }, {
+      "name": "Sebastian Wilzbach",
+      "url": "http://seb.wilzba.ch"
+    }, {
+      "name": "David Dao",
+      "url": "http://daviddao.de"
+    }, {
+      "name": "Manuel Corpas",
+      "url": "http://manuelcorpas.com"
+    }, {
+      "name": "Prof. Burkhard Rost",
+      "url": "https://en.wikipedia.org/wiki/Burkhard_Rost"
     }
   ],
   "repository": {
